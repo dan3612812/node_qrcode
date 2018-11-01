@@ -1,7 +1,7 @@
 const qrcode = require('qrcode');
 const crypto = require('crypto')
 
-
+//有沒有這個垃圾註解
 //雖然base64的自組比較短但產生qrcode需要長(我猜是符號)
 // let cto = crypto.randomBytes(300);
 // let text = cto.toString('base64');
